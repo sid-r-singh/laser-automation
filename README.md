@@ -4,6 +4,6 @@ This repo contains the source code & files used for controlling various function
 ## 🏃 Progress till now
 | Date | Summary | Files (link to latest commit of the day) |
 |------|---------|-------|
-|  20-07-21    |  Short: Created a LED brighness controller. Long: Using this program one can controll the brightness of LEDs (connected to Arduino) from LabView        |       |
+|  20/07/21    |  Short: Created a LED brighness controller. Long: Using this program one can controll the brightness of LEDs (connected to Arduino) from LabView        |       |
 |      |         |       |
 |      |         |       |
