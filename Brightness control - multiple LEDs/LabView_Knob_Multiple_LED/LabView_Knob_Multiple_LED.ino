@@ -4,7 +4,7 @@ int led_red = 11;
 int bgt_red,bgt_grn,bgt_blu;
 int val;
 void setup() {
-// put your setup code here, to run once:
+//runs once:
 Serial.begin(9600);
 pinMode(led_blu, OUTPUT);
 pinMode(led_grn, OUTPUT);
